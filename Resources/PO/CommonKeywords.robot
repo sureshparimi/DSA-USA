@@ -19,6 +19,7 @@ begin test
     Go to   ${URL}
       Sleep  5s
 
+
 End test
     sleep  5s
     ${Title}=   get title
